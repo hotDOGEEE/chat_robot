@@ -5,3 +5,5 @@
 - mongodb
 - nginx
 
+
+pip install -r requirements.txt
